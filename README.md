@@ -69,3 +69,16 @@
 
 </body>
 </html>
+
+CSS
+.logo{
+    position: absolute;
+    top: 4px; 
+    left: 850px;    
+    /* background: url(https://www.microsoft.com/ru-ru); */
+
+}
+li{
+    display: inline-block;
+    padding: 30px;
+}
